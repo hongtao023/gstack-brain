@@ -1,0 +1,7 @@
+# gstack-brain: merge drivers for cross-machine sync conflicts.
+# Matching driver must be registered in local git config; gstack-brain-init
+# and gstack-brain-restore run `git config merge.<name>.driver ...` after init.
+*.jsonl merge=jsonl-append
+retros/*.md merge=union
+projects/*/designs/**/*.md merge=union
+projects/*/ceo-plans/**/*.md merge=union
