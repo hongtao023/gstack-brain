@@ -2,3 +2,4 @@
 {"skill":"plan-eng-review","timestamp":"2026-04-30T07:59:11Z","status":"clean","unresolved":0,"critical_gaps":0,"issues_found":0,"mode":"FULL_REVIEW","commit":"8ae6ac3"}
 {"skill":"plan-eng-review","timestamp":"2026-04-30T08:22:23Z","status":"clean","unresolved":0,"critical_gaps":0,"issues_found":6,"mode":"FULL_REVIEW","commit":"8ae6ac3"}
 {"skill":"plan-eng-review","timestamp":"2026-04-30T14:13:52Z","status":"clean","unresolved":0,"critical_gaps":0,"issues_found":3,"mode":"FULL_REVIEW","commit":"908cbec"}
+{"skill":"plan-eng-review","timestamp":"2026-05-01T14:17:38Z","status":"issues_open","unresolved":8,"critical_gaps":2,"issues_found":18,"mode":"SCOPE_REDUCED","commit":"03d29d5"}
